@@ -4,6 +4,10 @@ This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analyt
 
 **The Result** [Access Here](https://t.me/ahmddfzibot)
 
+<p align="center" width="100%">
+    <img src="TelebotProject.png" width="350px"> 
+</p>
+
 ## Rubrics
 
 The maximum score you will obtain from this project is 16 points:  
